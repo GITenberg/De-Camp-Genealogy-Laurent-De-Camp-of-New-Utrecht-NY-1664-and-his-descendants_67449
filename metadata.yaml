@@ -1,0 +1,35 @@
+_repo: De-Camp-Genealogy-Laurent-De-Camp-of-New-Utrecht-NY-1664-and-his-descendants_67449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morrison, George Austin
+    alias: Morrison, Geo. Austin (George Austin)
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '54140'
+    url: http://www.gutenberg.org/2009/agents/54140
+description: ''
+gutenberg_issued: '2022-02-20'
+identifiers:
+  gutenberg: '67449'
+  lccn: 01010279
+language: en
+pgterms:marc904: https://archive.org/details/decampgenealogyl00morr/page/n5
+pgterms:marc905: 20190818092215morrisonjr
+pgterms:marc906: '1900'
+pgterms:marc907: us
+production_note: Richard Tonsing, Brian Wilson, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Joel Munsell's Sons, Publishers,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'DeCamp, Laurent, approximately 1645-'
+- !lcsh 'New Utrecht (New York, N.Y.) -- Genealogy'
+- !lcsh 'DeCamp family'
+- !lcc 'CS'
+- GITenberg
+title: 'De Camp Genealogy: Laurent De Camp of New Utrecht, N.Y., 1664, and his descendants'
+url: http://www.gutenberg.org/ebooks/67449
