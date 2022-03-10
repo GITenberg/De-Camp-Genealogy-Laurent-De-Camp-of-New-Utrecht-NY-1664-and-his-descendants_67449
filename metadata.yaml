@@ -1,5 +1,8 @@
 _repo: De-Camp-Genealogy-Laurent-De-Camp-of-New-Utrecht-NY-1664-and-his-descendants_67449
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67449-h/images/cover.jpg
 creator:
   author:
     agent_name: Morrison, George Austin
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54140'
     url: http://www.gutenberg.org/2009/agents/54140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67449#De-Camp-Genealogy-Laurent-De-Camp-of-New-Utrecht-NY-1664-and-his-descendants
 gutenberg_issued: '2022-02-20'
 identifiers:
   gutenberg: '67449'
